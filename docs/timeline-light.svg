@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 206" width="760" height="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-label="Timeline. The real run looks at clicks in the 24 hours before the install. The placebo runs look at clicks in windows after the install.">
+<text x="24" y="28" fill="#1f2328" font-size="15" font-weight="600" text-anchor="start">Where each run looks for clicks</text>
+<text x="224" y="62" fill="#1f2328" font-size="13" font-weight="600" text-anchor="end">Real window</text>
+<text x="224" y="80" fill="#59636e" font-size="12" font-weight="400" text-anchor="end">a click here could be the cause</text>
+<text x="240" y="62" fill="#1f2328" font-size="13" font-weight="600" text-anchor="start">Placebo windows</text>
+<text x="240" y="80" fill="#59636e" font-size="12" font-weight="400" text-anchor="start">a click here cannot be the cause</text>
+<rect x="82" y="94" width="147" height="30" rx="4" fill="#2a78d6"/>
+<rect x="235" y="94" width="147" height="30" rx="4" fill="#eb6834"/>
+<rect x="385" y="94" width="147" height="30" rx="4" fill="#eb6834"/>
+<rect x="535" y="94" width="147" height="30" rx="4" fill="#eb6834"/>
+<line x1="40" y1="150" x2="724" y2="150" stroke="#8c959f" stroke-width="1"/>
+<path d="M724,146 l7,4 l-7,4 Z" fill="#8c959f"/>
+<line x1="82" y1="150" x2="82" y2="156" stroke="#8c959f" stroke-width="1"/>
+<text x="82" y="174" fill="#59636e" font-size="11" font-weight="400" text-anchor="middle">24h before</text>
+<line x1="232" y1="86" x2="232" y2="156" stroke="#1f2328" stroke-width="2"/>
+<text x="232" y="174" fill="#1f2328" font-size="12" font-weight="600" text-anchor="middle">install</text>
+<line x1="382" y1="150" x2="382" y2="156" stroke="#8c959f" stroke-width="1"/>
+<text x="382" y="174" fill="#59636e" font-size="11" font-weight="400" text-anchor="middle">+1 day</text>
+<line x1="532" y1="150" x2="532" y2="156" stroke="#8c959f" stroke-width="1"/>
+<text x="532" y="174" fill="#59636e" font-size="11" font-weight="400" text-anchor="middle">+2 days</text>
+<line x1="682" y1="150" x2="682" y2="156" stroke="#8c959f" stroke-width="1"/>
+<text x="682" y="174" fill="#59636e" font-size="11" font-weight="400" text-anchor="middle">+3 days</text>
+<text x="24" y="196" fill="#59636e" font-size="12" font-weight="400" text-anchor="start">Each placebo window is a whole number of days later, so it covers the same hours of the day.</text>
+</svg>

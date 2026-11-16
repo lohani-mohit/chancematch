@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 292" width="760" height="292" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-label="Bar chart. Rule on 3 attributes: real run 52.2%, placebo run 27.1%. Rule on 2 attributes: real run 76.9%, placebo run 64.3%.">
+<text x="24" y="28" fill="#f0f6fc" font-size="15" font-weight="600" text-anchor="start">Match rate against chance-match rate</text>
+<text x="24" y="48" fill="#9198a1" font-size="12" font-weight="400" text-anchor="start">Synthetic data: 20,000 clicks, 2,517 eligible installs, 24-hour window</text>
+<rect x="24" y="66" width="10" height="10" rx="2" fill="#3987e5"/>
+<text x="40" y="75" fill="#f0f6fc" font-size="12" font-weight="400" text-anchor="start">Real run</text>
+<rect x="108" y="66" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="124" y="75" fill="#f0f6fc" font-size="12" font-weight="400" text-anchor="start">Placebo run: clicks from after the install</text>
+<line x1="256.0" y1="98" x2="256.0" y2="250" stroke="#656c76" stroke-width="1"/>
+<text x="256.0" y="268" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">0%</text>
+<line x1="367.0" y1="98" x2="367.0" y2="250" stroke="#3d444d" stroke-width="1"/>
+<text x="367.0" y="268" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">25%</text>
+<line x1="478.0" y1="98" x2="478.0" y2="250" stroke="#3d444d" stroke-width="1"/>
+<text x="478.0" y="268" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">50%</text>
+<line x1="589.0" y1="98" x2="589.0" y2="250" stroke="#3d444d" stroke-width="1"/>
+<text x="589.0" y="268" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">75%</text>
+<line x1="700.0" y1="98" x2="700.0" y2="250" stroke="#3d444d" stroke-width="1"/>
+<text x="700.0" y="268" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">100%</text>
+<text x="478.0" y="286" fill="#9198a1" font-size="11" font-weight="400" text-anchor="middle">share of eligible installs matched</text>
+<text x="24" y="129" fill="#f0f6fc" font-size="13" font-weight="600" text-anchor="start">Rule on 3 attributes</text>
+<text x="24" y="147" fill="#9198a1" font-size="12" font-weight="400" text-anchor="start">about 34% of matches are chance</text>
+<path d="M256,112 h227.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 H256 Z" fill="#3987e5"/>
+<text x="495.8" y="126.5" fill="#f0f6fc" font-size="12" font-weight="600" text-anchor="start">52.2%</text>
+<path d="M256,134 h116.3 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 H256 Z" fill="#d95926"/>
+<text x="384.3" y="148.5" fill="#f0f6fc" font-size="12" font-weight="600" text-anchor="start">27.1%</text>
+<text x="24" y="201" fill="#f0f6fc" font-size="13" font-weight="600" text-anchor="start">Rule on 2 attributes</text>
+<text x="24" y="219" fill="#9198a1" font-size="12" font-weight="400" text-anchor="start">about 54% of matches are chance</text>
+<path d="M256,184 h337.4 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 H256 Z" fill="#3987e5"/>
+<text x="605.4" y="198.5" fill="#f0f6fc" font-size="12" font-weight="600" text-anchor="start">76.9%</text>
+<path d="M256,206 h281.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 H256 Z" fill="#d95926"/>
+<text x="549.5" y="220.5" fill="#f0f6fc" font-size="12" font-weight="600" text-anchor="start">64.3%</text>
+</svg>

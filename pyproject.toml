@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chancematch"
+version = "0.1.0"
+description = "Measure the chance-match rate of a click-to-install matching rule with a placebo test."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Mohit Lohani" }]
+keywords = ["attribution", "measurement", "negative control", "placebo test"]
+dependencies = []
+
+[project.scripts]
+chancematch = "chancematch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
